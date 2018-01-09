@@ -1,0 +1,124 @@
+// -------------------------------------
+// PLACEHOLDER
+// -------------------------------------
+
+
+// ----- Display ----- //
+
+%d-b
+	display: block
+
+%d-i
+	display: inline
+
+%d-i
+	display: none
+
+%d-i-b
+	display: inline-block
+
+%d-f
+	display: -webkit-box
+	display: -ms-flexbox
+	display: flex
+
+%d-g
+	display: grid
+
+
+
+
+// ----- Float ----- //
+
+%f-l
+	float: left
+
+%f-r
+	float: right
+
+
+
+// ----- Text Align ----- //
+
+%t-c
+	text-align: center
+
+%t-l
+	text-align: left
+
+%t-r
+	text-align: right
+
+
+
+// ----- Position ----- //
+
+%p-a
+	position: absolute
+
+%p-r
+	position: relative
+
+%p-f
+	position: fixed
+
+
+
+// ----- Flex ----- //
+
+%f-w
+	-ms-flex-wrap: wrap
+	flex-wrap: wrap
+
+%f-s
+	justify-content: flex-start
+
+%f-e
+	justify-content: flex-end
+
+
+
+// ----- Justify & Align ----- //
+
+%j-c
+	justify-content: center
+
+%j-s
+	justify-content: flex-start
+
+%j-e
+	justify-content: flex-end
+
+%j-s-b
+	justify-content: space-between
+
+%j-s-a
+	justify-content: space-around
+
+%a-i-c
+	align-items: center
+
+
+
+// ----- Direction ----- //
+
+%f-row
+	flex-direction: row
+
+%f-col
+	flex-direction: column
+
+
+// ----- Utils ----- //
+
+%c-p
+	cursor: pointer
+
+%t-u
+	text-transform: uppercase
+
+%s-f-f
+	font-family: $sans-family-stack
+
+%o-h
+	overflow: height
